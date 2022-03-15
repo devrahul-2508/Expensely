@@ -12,7 +12,7 @@
         android:textStyle="bold"
         android:textSize="20sp"
         android:textColor="@color/black"
-        android:text="Select an item"/>
+        android:text="Select an item to filter"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvList"
