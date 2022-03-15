@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation.xml"
+    app:startDestination="@id/dashboard">
+    <fragment
+        android:id="@+id/dashboard"
+        android:name="com.example.expensely.view.fragments.DashBoardFragment"
+        android:label="fragment_dash_board"
+        tools:layout="@layout/fragment_dash_board" >
+        <action
+            android:id="@+id/action_dashboard_to_transactionDetailsFragment2"
+            app:destination="@id/transactionDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/allTransactions"
+        android:name="com.example.expensely.view.fragments.AllTransactionsFragment"
+        android:label="fragment_all_transactions"
+        tools:layout="@layout/fragment_all_transactions" >
+        <action
+            android:id="@+id/action_allTransactions_to_transactionDetailsFragment"
+            app:destination="@id/transactionDetailsFragment"
+            />
+    </fragment>
+    <fragment
+        android:id="@+id/stats"
+        android:name="com.example.expensely.view.fragments.StatsFragment"
+        android:label="fragment_stats"
+        tools:layout="@layout/fragment_stats" />
+    <fragment
+        android:id="@+id/transactionDetailsFragment"
+        android:name="com.example.expensely.view.fragments.TransactionDetailsFragment"
+        android:label="fragment_transaction_details"
+        tools:layout="@layout/fragment_transaction_details">
+
+        <argument
+            android:name="transactionDetails"
+            app:argType="com.example.expensely.entities.Transaction"/>
+        <action
+            android:id="@+id/action_transactionDetailsFragment_to_dashboard"
+            app:destination="@id/dashboard"
+            app:popUpTo="@id/transactionDetailsFragment"
+            app:popUpToInclusive="true"/>
+
+
+    </fragment>
+    <activity
+        android:id="@+id/addUpdateTransactionActivity"
+        android:name="com.example.expensely.view.activities.AddUpdateTransactionActivity"
+        android:label="activity_add_update_transaction"
+        tools:layout="@layout/activity_add_update_transaction">
+
+        <argument
+            android:name="transactionDetails"
+            app:argType="com.example.expensely.entities.Transaction"/>
+
+
+    </activity>
+
+
+</navigation>
