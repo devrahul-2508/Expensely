@@ -15,8 +15,7 @@ Dashboard | All Transactions | Stats | Details | Add Transaction
   - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes. 
   - [Room](https://developer.android.com/topic/libraries/architecture/room) - SQLite object mapping library.
   - [Jetpack Navigation](https://developer.android.com/guide/navigation) - Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app
-  - [Glide](https://github.com/bumptech/glide) - An image loading library for Android.
   - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 
-
+ - [Glide](https://github.com/bumptech/glide) - An image loading library for Android.
 
