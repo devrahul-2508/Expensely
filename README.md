@@ -1,5 +1,21 @@
 # Expensely
 A Minimal expense Tracker built with Kotlin the use of modern android architecture component with MVVM Architecture.
-ScreenShots
-<img src="https://user-images.githubusercontent.com/91717339/158362506-68508d30-80be-462a-b6c9-c25d234a59c2.jpg" height="790" width="400"><img src="https://user-images.githubusercontent.com/91717339/158361493-e31a8fad-45e7-4874-9103-984e01dba83b.jpg" height="790" width="400" ><img src="https://user-images.githubusercontent.com/91717339/158361503-2796d6ee-b282-4caa-9c49-c638a819920d.jpg"  height="790" width="400" ><img src="https://user-images.githubusercontent.com/91717339/158361506-4c98d75e-2b04-4b3c-8224-3f113c44c77e.jpg" height="790" width="400" ><img src="https://user-images.githubusercontent.com/91717339/158361511-a12d05e0-fcfa-4bb3-afce-9b02024a2385.jpg"  height="790" width="400" ><img src="https://user-images.githubusercontent.com/91717339/158361521-010f77c8-6044-4392-94a1-967ed6d84c79.jpg"  height="790" width="400"><img src="https://user-images.githubusercontent.com/91717339/158361524-64089506-e38a-4ff9-a773-c18fd610f72a.jpg" align="left" height="790" width="400"><img src="https://user-images.githubusercontent.com/91717339/158361534-3c2412fc-15c5-40b3-92d4-3cd59679aa52.jpg"  height="790" width="400">
+## ScreenShots
+
+Dashboard | All Transactions | Stats | Details | Add Transaction 
+--- | --- | --- |--- |--- 
+![](https://github.com/devrahul-2508/Expensely/blob/main/art/DashBoard.jpg) | ![](https://github.com/devrahul-2508/Expensely/blob/main/art/AllTransactions.jpg) | ![](https://github.com/devrahul-2508/Expensely/blob/main/art/Stats.jpg) | ![](https://github.com/devrahul-2508/Expensely/blob/main/art/Details.jpg) | ![](https://github.com/devrahul-2508/Expensely/blob/main/art/Add_Transaction.jpg) 
+
+## Built With 🛠
+- [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
+- [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
+- [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - Collection of libraries that help you design robust, testable, and maintainable apps.
+  
+  - [Flow](https://kotlinlang.org/docs/reference/coroutines/flow.html) - A flow is an asynchronous version of a Sequence, a type of collection whose values are lazily produced.
+  - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes. 
+  - [Room](https://developer.android.com/topic/libraries/architecture/room) - SQLite object mapping library.
+  - [Jetpack Navigation](https://developer.android.com/guide/navigation) - Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app
+  - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
+
+
 
