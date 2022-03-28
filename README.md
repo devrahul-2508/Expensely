@@ -6,6 +6,12 @@ Dashboard | All Transactions | Stats | Details | Add Transaction
 --- | --- | --- |--- |--- 
 ![](https://github.com/devrahul-2508/Expensely/blob/main/art/DashBoard.jpg) | ![](https://github.com/devrahul-2508/Expensely/blob/main/art/AllTransactions.jpg) | ![](https://github.com/devrahul-2508/Expensely/blob/main/art/Stats.jpg) | ![](https://github.com/devrahul-2508/Expensely/blob/main/art/Details.jpg) | ![](https://github.com/devrahul-2508/Expensely/blob/main/art/Add_Transaction.jpg) 
 
+## Architecture 🗼
+
+This project follows the famous MVVM architecture and best practices from Google's [GithubBrowserSample](https://github.com/android/architecture-components-samples/tree/master/GithubBrowserSample)
+
+![](https://github.com/devrahul-2508/Expensely/blob/main/art/arch.jpg)
+
 ## ScoreCard
 ![](https://github.com/devrahul-2508/Expensely/blob/main/art/summary.png)
 
