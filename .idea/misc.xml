@@ -3,14 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/circle_drawable.xml" value="0.1685" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/gradient_drawable.xml" value="0.1935" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_calender.xml" value="0.1935" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_delete.xml" value="0.209" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_entertainment.xml" value="0.209" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_expense.xml" value="0.209" />
+        <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_expense_white.xml" value="0.1685" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_food.xml" value="0.209" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_housing.xml" value="0.209" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_income.xml" value="0.209" />
+        <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_income_white.xml" value="0.1685" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_insurance.xml" value="0.209" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_medical.xml" value="0.209" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_others.xml" value="0.209" />
@@ -19,8 +22,10 @@
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_transport.xml" value="0.209" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/ic_utlities.xml" value="0.209" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/icon_bg.xml" value="0.209" />
+        <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/recent_background.xml" value="0.1685" />
+        <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/drawable/vertical_seperator.xml" value="0.136" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/layout/activity_add_update_transaction.xml" value="0.2" />
-        <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/layout/activity_main.xml" value="0.22105263157894736" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/layout/activity_splash.xml" value="0.23229166666666667" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/layout/content_transaction_details.xml" value="0.23229166666666667" />
         <entry key="..\:/APP dEVElop/Expensely/app/src/main/res/layout/custom_dialog.xml" value="0.23229166666666667" />
